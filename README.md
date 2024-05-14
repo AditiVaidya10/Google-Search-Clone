@@ -1,4 +1,4 @@
-**🌟 Welcome to GSearch - Your Google Search Clone! 🌟**
+# **🌟 Welcome to GSearch - Your Google Search Clone! 🌟**
 
 ### Introduction
 GSearch is a sleek and efficient Google Search clone built entirely using ReactJS. It offers a familiar interface and functionality, allowing users to search the web with ease.
